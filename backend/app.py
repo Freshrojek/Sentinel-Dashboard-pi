@@ -10,5 +10,4 @@ def get_data():
     result = query_sentinel(token)
     return result
 
-    # check
     
